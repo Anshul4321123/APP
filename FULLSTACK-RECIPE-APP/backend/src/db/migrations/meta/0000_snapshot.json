@@ -1,5 +1,5 @@
 {
-  "id": "4c91272a-d81f-48b4-8233-fd66741a48a1",
+  "id": "2ba98363-bb00-41c2-a32f-f6ca2b05c2e8",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
@@ -22,7 +22,7 @@
         },
         "recipe_id": {
           "name": "recipe_id",
-          "type": "text",
+          "type": "integer",
           "primaryKey": false,
           "notNull": true
         },
